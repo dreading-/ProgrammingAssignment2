@@ -13,7 +13,6 @@
 ## Assumptions:
 ##      The matrix supplied is always invertible.
 
-
 ## Initialise the matrix cache
 makeCacheMatrix <- function(data = matrix()) {
         inverse <- NULL
